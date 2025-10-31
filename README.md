@@ -39,7 +39,7 @@ My goal is to **combine technical expertise with pedagogy**, making software dev
 
 
 ### 🎓 Teaching & Mentoring
-- 🧑‍🏫 **Web development instructor** guiding students through React, Node.js, MongoDB, and TypeScript.  
+- 🧑‍🏫 **Web development instructor** guiding students through Vanilla JS, React, Node.js and MongoDB.  
 - 💬 Focused on practical, project-based learning and problem-solving.  
 - 🎯 Mission: to inspire the next generation of developers through hands-on education and mentorship.
 
