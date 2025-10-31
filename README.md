@@ -37,12 +37,6 @@ My goal is to **combine technical expertise with pedagogy**, making software dev
 
 ---
 
-### 🌟 Featured Projects
-- [**ChatApp (MERN + Socket.IO)**](https://github.com/samihakallel0206/ChatApp) – Real-time chat application with authentication, notifications, and file sharing.  
-- [**Recipe App**](https://github.com/samihakallel0206/recipe-app) – Full-stack app for sharing and exploring recipes with images and videos.  
-- [**Portfolio Website**](https://github.com/samihakallel0206/Portfolio) – Modern, responsive portfolio with smooth animations and contact form.
-
----
 
 ### 🎓 Teaching & Mentoring
 - 🧑‍🏫 **Web development instructor** guiding students through React, Node.js, MongoDB, and TypeScript.  
