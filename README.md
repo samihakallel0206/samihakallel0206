@@ -21,7 +21,7 @@ My goal is to **combine technical expertise with pedagogy**, making software dev
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,typescript,nodejs,express,mongodb,git,github,vscode,postman,figma,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,typescript,nodejs,express,mongodb,git,github,vscode,postman,vercel,netlify&theme=dark" />
 </p>
 
 ---
