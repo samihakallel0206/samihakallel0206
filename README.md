@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sami Kallel</h1>
+<h1 align="center">👋 Hi, I'm Samiha Kallel</h1>
 <h3 align="center">Computer Engineer | Full Stack Developer (MERN) | Passionate Educator</h3>
 
 ---
@@ -13,12 +13,9 @@ My goal is to **combine technical expertise with pedagogy**, making software dev
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-kallel-88a5871a/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/samihakallel0206)
-
 
 ---
 
